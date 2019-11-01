@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-admin-template
 
 English | [简体中文](./README-zh.md)
@@ -87,3 +88,7 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+=======
+# blog-admin
+个人博客后台管理前端项目，基于Vue和ElementUI
+>>>>>>> 3f05beab1c2d5321fb32e7bbf6b4fb95f6c255c8
